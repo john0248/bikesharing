@@ -17,7 +17,7 @@ Out of the 2.3 Million customers more than 80% were yearly subscribers. This pro
 
 ![](Usertype.png)
 
-During the week, people travel between the hours of 6-9 am and 5-7 pm. Trips on the weekend are more spread out from the hours of 8 am -7pm. 
+During the week, people travel between the hours of 6-9am and 5-7pm. Trips on the weekend are more spread out from the hours of 8am -7pm. 
 
 ![](Trips_weekday_hour.png)
 
@@ -29,7 +29,7 @@ Given the times of usage, the subscribers are most likely using the bikes as a w
 
 ![](gender_trips.png)
 
-Hours of usages are low from the hours of 2-4 am. This would be a perfect time to perform the maintenance and checks on the bikes.
+Hours of usages are low from the hours of 2-4am. This would be a perfect time to perform the maintenance and checks on the bikes.
 
 ![](August_Peak_hours.png)
 
