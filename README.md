@@ -7,6 +7,7 @@ A vacation trip to New City spurred a startup idea for a bike sharing company in
 
 ## Explain the purpose of this analysis.
 
+We have the data to present to our investors, but we need a better way to communicate our findings.  Our choice of data visualization tool for this project was Tableau Public.  It is a free software that provides dynamic and stunning graphs with the ability to make dashboards and Storylines. 
 
 ## Results: 
 
