@@ -44,10 +44,12 @@ Even though the average trip is only 5 mins, we did not find a large difference 
 
 ## Summary: 
 
-
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+Tableau is a powerful data visualization tool that helped us get a better understanding of the CitiBike August trip data.  If NYC provides a blueprint of what to expect in Idaho, then our target audience is a male taking short trip durations throughout the week.  Most trips only last 5-7 mins and have low usage around 1-3 am which we can use for maintenance. 
 
 Two additional data visualizations that may provide more insight:
 1. The data for the age of the user looked to be incomplete or at a minimum not filled in properly.  We can see this from the fact some users are born in 1886.  It could provide some insight if we could narrow down reasonable ages and determine gender of those age groups.  
 2. Plotting starting station on a map.  When it is time to investigate closer, we might want to find out what was common to those locations (housing, restaurants, hotels...).  
+3. May want to understand trip duration on weekends.
+
+ 
 
