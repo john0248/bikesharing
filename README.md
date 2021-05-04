@@ -52,7 +52,5 @@ Two additional data visualizations that may provide more insight:
 3. May want to understand trip duration on weekends.
 
 To view the Tableau file use the following link: 
-
-![Link to dashboard](https://public.tableau.com/profile/christine.mejia.johnson#!/vizhome/CitiBikeChallenge_16200933427230/CitiBikeStory?publish=yes
  
-
+[Link to Dashboard](https://public.tableau.com/profile/christine.mejia.johnson#!/vizhome/CitiBikeChallenge_16200933427230/CitiBikeStory?publish=yes)
