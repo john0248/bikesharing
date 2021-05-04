@@ -13,7 +13,7 @@ We have the data to present to our investors, but we need a better way to commun
 
 The data for Citibikes was taken from a public source so there are no worries about private information getting released.  This data had to be cleaned and transformed before it could be used.  Most of the data could be manipulated inside of Tableau.  Before we loaded the data, we had to change the datatype for trip duration.  The easiest way to do this transformation was to use pandas.  This step of the data manipulation is found in the Jupiter notebook attached in this repository. 
 
-Out of the 2.3 Million customers more than 80% were yearly subscribers. This provides a steady consistent revenue stream.  See pie chart below showing the total count of trips and users types.
+Out of the 2.3 million customers more than 80% were yearly subscribers. This provides a steady consistent revenue stream.  See pie chart below showing the total count of trips and users types.
 
 ![](Usertype.png)
 
