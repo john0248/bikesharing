@@ -51,6 +51,7 @@ Two additional data visualizations that may provide more insight:
 2. Plotting starting station on a map.  When it is time to investigate closer, we might want to find out what was common to those locations (housing, restaurants, hotels...).  
 3. May want to understand trip duration on weekends.
 
-To view the Tableau file use the following link: https://public.tableau.com/profile/christine.mejia.johnson#!/vizhome/CitiBikeChallenge_16200933427230/CitiBikeStory?publish=yes
+To view the Tableau file use the following link: 
+[link to dashboard] (https://public.tableau.com/profile/christine.mejia.johnson#!/vizhome/CitiBikeChallenge_16200933427230/CitiBikeStory?publish=yes
  
 
