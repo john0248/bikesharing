@@ -3,7 +3,7 @@
 
 # Overview of the analysis
 
-A vacation trip to New City spurred a startup idea for a bike sharing company in Des Moines, Idaho.  In order to properly fund the startup, the crew needs to investigate the data from the CitiBike trip data to see if it could provide a proof of concept for potential investors.
+A vacation trip to New City spurred a startup idea for a bike sharing company in Des Moines, Idaho.  In order to properly fund the startup, the crew needs to investigate the data from the CitiBike trip data to see if it could provide a proof of concept for potential investors.  To avoid overstating riding during summer month we are going to look at August data.
 
 ## Explain the purpose of this analysis.
 
