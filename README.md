@@ -15,22 +15,31 @@ The data for Citibikes was taken from a public source so there are no worries ab
 
 Out of the 2.3 Million customers more than 80% were yearly subscribers. This provides a steady consistent revenue stream.  See pie chart below showing the total count of trips and users types.
 
-
+![](Usertype.png)
 
 During the week, people travel between the hours of 6-9 am and 5-7 pm. Trips on the weekend are more spread out from the hours of 8 am -7pm. 
 
+![](Trips_weekday_hour.png)
+
 Most users were male utilizing the bikes throughout the week. This will give us an opportunity to target more women since males may already be more likely to subscribe.
+
+![](gender_weekday.png)
 
 Given the times of usage, the subscribers are most likely using the bikes as a way to get to work. Weekends are more spread out so most likely being used for sightseeing.
 
+![](gender_trips.png)
+
 Hours of usages are low from the hours of 2-4 am. This would be a perfect time to perform the maintenance and checks on the bikes.
+
+![](August_Peak_hours.png)
 
 Most bikes are only checked out for less than 1 hour. In fact, the average trip times is around 5 mins. This allows many users access to the bikes.
 
+![](Checkout_times.png)
+
 Even though the average trip is only 5 mins, we did not find a difference in trip time by gender.
 
-
-
+![](checkout_gender.png)
 
 
 ## Summary: 
