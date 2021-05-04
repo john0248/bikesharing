@@ -1,5 +1,5 @@
 
-![](bikesharing/citi-bike_rush_hour.jpeg)
+![](main/citi-bike_rush_hour.jpg)
 
 # Overview of the analysis: 
 
