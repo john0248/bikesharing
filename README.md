@@ -37,7 +37,7 @@ Most bikes are only checked out for less than 1 hour. In fact, the average trip 
 
 ![](Checkout_times.png)
 
-Even though the average trip is only 5 mins, we did not find a difference in trip time by gender.
+Even though the average trip is only 5 mins, we did not find a large difference in trip time by gender.
 
 ![](checkout_gender.png)
 
@@ -46,3 +46,8 @@ Even though the average trip is only 5 mins, we did not find a difference in tri
 
 
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+Two additional data visualizations that may provide more insight:
+1. The data for the age of the user looked to be incomplete or at a minimum not filled in properly.  We can see this from the fact some users are born in 1886.  It could provide some insight if we could narrow down reasonable ages and determine gender of those age groups.  
+2. Plotting starting station on a map.  When it is time to investigate closer, we might want to find out what was common to those locations (housing, restaurants, hotels...).  
+
