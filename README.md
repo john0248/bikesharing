@@ -1,5 +1,5 @@
 
-
+! [] (citi-bike_rush_hour.jpeg)
 
 # Overview of the analysis: 
 
